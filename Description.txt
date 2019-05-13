@@ -1,0 +1,9 @@
+Hello,
+
+Enclosed, please find homework 3 and dataset. Change kernels name to HW3-[StudentNo].ipynb before submission.  
+
+Due: 17.05.2019, 23.59
+
+Email your submission to tekdenahmet@gmail.com. Only HW3-[StudentNo].ipynb should be submitted. Subject should be [Cmpe462] Hw3-StudentNo .
+
+
